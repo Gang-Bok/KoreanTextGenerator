@@ -1,0 +1,8 @@
+1117 sentences
+50 epochs
+batch 50
+
+vocab size 7373
+data size 12331
+
+35519 seconds
